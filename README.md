@@ -1,8 +1,6 @@
 # LSocial
 LSocial
 
-# Angular Material Dashboard
-
 [![Join the chat at https://gitter.im/lamjar/LSocial](https://badges.gitter.im/lamjar/LSocial.svg)](https://gitter.im/lamjar/LSocial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Responsive Angular admin dashboard with material design based on
