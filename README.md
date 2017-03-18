@@ -1,7 +1,5 @@
-https://github.com/lamjar/LSocial/edit/master/README.md
-LSocial
 
-Responsive Angular admin dashboard with material design based on Angular Material.
+LSocial dashboard with material design based on Angular Material.
 
 promo-amd
 
