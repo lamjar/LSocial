@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+https://github.com/lamjar/LSocial/edit/master/README.md
+LSocial
 
-You can use the [editor on GitHub](https://github.com/lamjar/LSocial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Responsive Angular admin dashboard with material design based on Angular Material.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+promo-amd
 
-### Markdown
+Check out DEMO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting started
 
-```markdown
-Syntax highlighted code block
+Clone project:
 
-# Header 1
-## Header 2
-### Header 3
+$ git clone https://github.com/lamjar/LSocial.git
+Install dependencies:
 
-- Bulleted
-- List
+$ cd LSocial
+$ npm install
+Install gem 'sass'
 
-1. Numbered
-2. List
+$ gem install sass
+Run development web-server:
 
-**Bold** and _Italic_ and `Code` text
+$ gulp serve
+Features
 
-[Link](url) and ![Image](src)
-```
+AngularJS
+Angular UI Router
+Angular Material
+Sass styles
+Gulp build
+Stylish, clean, responsive layout with original design
+BrowserSync for the ease of development
+Project structure and credits
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Project structure based on gulp-angular yeoman generator. If you have any questions about the build or project structure please check out their documentation.
 
-### Jekyll Themes
+UI components built with Angular Material. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lamjar/LSocial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Deploy to Github pages
 
-### Support or Contact
+$ gulp build
+$ gulp deploy
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
