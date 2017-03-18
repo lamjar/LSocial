@@ -1,42 +1,58 @@
+# LSocial
+LSocial
 
-LSocial dashboard with material design based on Angular Material.
+# Angular Material Dashboard
 
-promo-amd
+[![Join the chat at https://gitter.im/lamjar/LSocial](https://badges.gitter.im/lamjar/LSocial.svg)](https://gitter.im/lamjar/LSocial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Check out DEMO
+Responsive Angular admin dashboard with material design based on
+[Angular Material](https://github.com/angular/material).
 
-Getting started
+![promo-amd](src/assets/images/promo-amd.png)
+
+Check out [DEMO](http://lamjar.github.io/LSocial/)
+
+## Getting started
 
 Clone project:
 
-$ git clone https://github.com/lamjar/LSocial.git
+    $ git clone https://github.com/lamjar/LSocial.git
+
 Install dependencies:
 
-$ cd LSocial
-$ npm install
+    $ cd LSocial
+    $ npm install
+
 Install gem 'sass'
 
-$ gem install sass
+    $ gem install sass
+    
 Run development web-server:
 
-$ gulp serve
-Features
+    $ gulp serve
 
-AngularJS
-Angular UI Router
-Angular Material
-Sass styles
-Gulp build
-Stylish, clean, responsive layout with original design
-BrowserSync for the ease of development
-Project structure and credits
+## Features
 
-Project structure based on gulp-angular yeoman generator. If you have any questions about the build or project structure please check out their documentation.
+* AngularJS
+* Angular UI Router
+* Angular Material
+* Sass styles
+* Gulp build
+* Stylish, clean, responsive layout with original design
+* BrowserSync for the ease of development
 
-UI components built with Angular Material. 
+## Project structure and credits
 
-Deploy to Github pages
+Project structure based on [gulp-angular yeoman generator](https://github.com/Swiip/generator-gulp-angular).
+If you have any questions about the build or project structure please check out their documentation.
 
-$ gulp build
-$ gulp deploy
+UI components built with [Angular Material](https://material.angularjs.org/).
 
+Design by [lamjar.com](http://lamjar.com/)
+
+## Deploy to Github pages  
+  
+    $ gulp build
+    $ gulp deploy
+
+## Community
